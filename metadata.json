@@ -1,0 +1,5 @@
+{
+  "name": "Dentist Appointment Booking Platform",
+  "description": "A full-stack MERN application for booking dentist appointments with a user view and an admin panel.",
+  "requestFramePermissions": []
+}
